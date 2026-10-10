@@ -15,9 +15,9 @@
 
 <h3 align="left">Featured Projects</h3>
 <p align="left">
-  <a href="https://github.com/AlexB-128/Wazuh_Soc_Lab">Wazuh SOC Lab</a> <br>
+  <a href="https://github.com/AlexB-128/Wazuh-Soc-Lab">Wazuh SOC Lab</a> <br>
   <a href="https://github.com/AlexB-128/Active-Directory-Lab">Active Directory Lab</a><br> 
-  <a href="https://github.com/AlexB-128/Network_Analysis_Lab">Network Analysis Lab</a>
+  <a href="https://github.com/AlexB-128/Network-Analysis-Lab">Network Analysis Lab - In Progress</a>
 </p>
 
 <!--
