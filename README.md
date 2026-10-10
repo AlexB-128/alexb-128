@@ -1,7 +1,7 @@
 # Alex Boyer
 ## Cybersecurity Student | CompTIA Sec+ Net+ A+
 
-#### I'm a cybersecurity student building hands-on experience in IT infrastructure, network security and administration. The purpose of this portfolio is to document my labs, investigations and practical technical projects.
+#### I'm a cybersecurity student building hands-on experience in IT infrastructure, network security and administration. The purpose of this portfolio is to document my labs, investigations, and practical technical projects.
 
 ## Featured Projects
 
