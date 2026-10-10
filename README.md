@@ -6,7 +6,7 @@
 ## Featured Projects
 
   ### • [Wazuh SOC Lab](https://github.com/AlexB-128/Wazuh-Soc-Lab)
-  ####  A lab exploring Wazuh's SIEM and XDR capabilities with an emphasis on the detection and analysis phases of an incident response cycle.
+  ####  A lab exploring Wazuh's SIEM and XDR capabilities with an emphasis on the detection, analysis, and post-incident phases of an incident response cycle.
   
   ### • [Active Directory Lab](https://github.com/AlexB-128/Active-Directory-Lab)
   ####  A lab simulating an enterprise Windows domain environment using virtual machines to practice Active Directory and security concepts.
