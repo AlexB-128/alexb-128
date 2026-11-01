@@ -12,8 +12,8 @@
   ####  A lab simulating an enterprise Windows domain environment using virtual machines to practice Active Directory and security concepts.
 
   
-  ### • [Network Analysis Lab](https://github.com/AlexB-128/Network-Analysis-Lab) - In Progress
-  ####  A lab analyzing network traffic and discovering abnormalities which prompt a deeper investigation.
+  ### • [Network Analysis Lab](https://github.com/AlexB-128/Network-Analysis-Lab) -
+  ####  A hands-on lab focused on analyzing network traffic using Wireshark to observe how common network protocols operate, examine communication between devices, and develop practical packet analysis and network troubleshooting skills.
 
 
 <!--
